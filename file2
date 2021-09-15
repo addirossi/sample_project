@@ -1,3 +1,6 @@
 fieofjPillow
 drf-yasg
 lxml
+Django == 3.2
+Telebot
+
