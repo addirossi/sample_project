@@ -3,7 +3,6 @@ class A:
 
 
 def main():
-	pass
 	return None
 
 class B(A):
