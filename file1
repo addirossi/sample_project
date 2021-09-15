@@ -1,6 +1,11 @@
 class A:
     pass
 
+
 def main():
 	pass
 	return None
+
+class B(A):
+    return "Hello" 
+
